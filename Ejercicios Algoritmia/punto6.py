@@ -1,3 +1,8 @@
+"""
+6.Dada en una lista no ordenada de números (20 enteros generados aleatoriamente) y un número
+leído por teclado, diseñar una solución que busque en la lista el número leído. Si lo encuentra,
+debe informar su posición en la lista, sino debe devolver la frase “Número no encontrado”.
+"""
 import random
 
 lista = [random.randint(1, 100) for _ in range(20)]

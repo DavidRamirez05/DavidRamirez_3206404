@@ -1,3 +1,6 @@
+"""
+8.Con la lista del ejercicio 6, diseñar una solución que busque el número mayor y devuelva cuantas veces aparece.
+"""
 import random
 
 lista = [random.randint(1, 100) for _ in range(20)]

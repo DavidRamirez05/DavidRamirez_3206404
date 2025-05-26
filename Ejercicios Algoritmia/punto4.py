@@ -1,3 +1,6 @@
+"""
+4.Diseñar el algoritmo que calcule la suma de los pares que hay entre dos números dados.
+"""
 print ("Suma de pares que hay entre dos números")
 
 n1 = int(input ("Digite su numero:"))

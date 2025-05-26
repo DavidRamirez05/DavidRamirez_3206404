@@ -1,3 +1,6 @@
+"""
+7.Modificar el anterior para que devuelva el número de veces que aparece.
+"""
 import random
 
 lista = [random.randint(1, 100) for _ in range(20)]

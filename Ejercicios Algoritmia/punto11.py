@@ -1,3 +1,6 @@
+"""
+11.Con la lista del ejercicio 6, Diseñar una solución que calcule la media entre el mayor y el menor.
+"""
 import random
 
 numeros = [random.randint(1, 100) for _ in range(20)]

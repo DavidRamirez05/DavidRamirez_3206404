@@ -1,3 +1,7 @@
+"""
+9.Con la lista del ejercicio 6, diseñar una solución que devuelva Verdadero si el número leído
+aparece más veces que el mayor.
+"""
 import random
 
 lista = [random.randint(1, 100) for _ in range(20)]
